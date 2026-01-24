@@ -2,7 +2,7 @@
 
 <img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/1574f3a0-1abd-4012-8d04-54d4e1194e57" />
 
-<h2 style="color: #CA8E82">Desenvolvedora FullStack & Designer UX/UI</h2>
+![FullStack & UX/UI](https://img.shields.io/badge/Desenvolvedora-FullStack_%26_UX%2FUI-CA8E82?style=for-the-badge)
 
 ### | 📖 Sobre Mim
 
